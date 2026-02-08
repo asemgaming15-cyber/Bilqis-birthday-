@@ -1,0 +1,58 @@
+index.html
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Selamat Ulang Tahun Bilqis 💖</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+      font-family: 'Arial', sans-serif;
+      text-align: center;
+      color: #fff;
+      padding: 50px 20px;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 1.2em;
+      max-width: 600px;
+      margin: auto;
+    }
+    .card {
+      background: rgba(255,255,255,0.2);
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    }
+    audio {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+    <h1>🎉 Selamat Ulang Tahun 🎉</h1>
+    <h1>Bilqis Prasasti 💕</h1>
+
+    <p>
+      Semoga di umur kamu yang sekarang, kamu selalu diberi kesehatan,  
+      kebahagiaan, dan semua hal baik yang kamu impikan.  
+      Terima kasih sudah hadir dan jadi bagian penting dalam hidup aku.
+    </p>
+
+    <p>
+      Tetap jadi Bilqis yang aku kenal: kuat, manis, dan penuh cinta 🤍
+    </p>
+
+    <audio controls autoplay loop>
+      <source src="music.mp3" type="audio/mpeg">
+      Browser kamu tidak mendukung audio.
+    </audio>
+  </div>
+
+</body>
+</html>
